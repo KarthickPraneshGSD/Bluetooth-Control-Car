@@ -1,6 +1,9 @@
 #🚗 Bluetooth-Control-Car
+
 Bluetooth Control Car using arduino
+
 Components :
+
 1. Arduino
 2. HC-05 Bluetooth Module
 3. Motor Drive
